@@ -1,0 +1,10 @@
+# Lazy lock file
+lazy-lock.json
+
+# Temporary stuff
+*_tmp.*
+*_tmp/
+# Old stuff
+*_old.*
+*_old/
+
